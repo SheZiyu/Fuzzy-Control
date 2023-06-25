@@ -9,6 +9,7 @@ Keypoints:
 
 ![image](https://github.com/SheZiyu/Fuzzy-Control/assets/98766434/e5c59403-4eca-4117-96c9-ba798d74ff9a)
 
-![image](https://github.com/SheZiyu/Fuzzy-Control/assets/98766434/b6d4ac25-9bab-4df9-90e6-41981ccc2c61)
+![image](https://github.com/SheZiyu/Fuzzy-Control/assets/98766434/8c4974dd-1240-4ccc-974c-87d1861f6c8a)
+
 
 
